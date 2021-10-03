@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohanned-Elkholy
-- 👀 I’m interested in deep learning and computer vision
+- 👀 I’m interested in deep learning, data analysis, and computer vision
 - 📫 How to reach me, reach out at mohanned@mit.edu
 
 <!---
